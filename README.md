@@ -1,1 +1,1 @@
-These are the given code example for TripReservationsController from the book Fearless Refactoring Rails Controllers. Have fun!
+These are the given code examples (and their refactored form) from the book Fearless Refactoring Rails Controllers. Have fun!
